@@ -10,6 +10,7 @@ Task List Display: The application displays the list of tasks in a textarea for 
 
 Clear Tasks: Users can clear the entire list of tasks with a single click.
 
+
 Technologies Used:
 HTML: Provides the structure and content of the web page.
 
